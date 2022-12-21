@@ -105,7 +105,4 @@ btigu.grid(row=6, column=3)
 #btseta.grid(row=6, column=0)
 btponto.grid(row=6, column=2)
 
-print('abacate')
-
-
 janela.mainloop()
